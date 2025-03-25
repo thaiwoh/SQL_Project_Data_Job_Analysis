@@ -52,8 +52,6 @@ Here's the breakdown of the top 10 data analyst jobsin 2023:
 - **Wide Salary Range:** Top 10 paying data analyst roles span from $97,000 to $99,000, indicating significant salary potential in the field.
 - **Diverse Employers:** Companies like Calbright College,Ogletree Deakins,Get It Recruit - Information Technology are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Research Data Analyst to Senior Earth Observation Data Analyst, reflecting varied roles and specializations within data analytics.
-![Graph Image](https://github.com/thaiwoh/SQL_Project_Data_Job_Analysis/blob/main/chatgpt%20top%2010%20jobs.png)
-*Bar graph visualizing the saliries for the Top 10 salaries for Data Analyst;Chat Gpt generated this graph from my SQL query results*
 
 
 ### 2. Skills for top Paying Jobs
@@ -169,6 +167,7 @@ Here's a breakdown of the results for top paying skills for Data Analysts
    | jupyter      |  152,777           |
    | pandas       |  151,821           |
    | elasticsearch|  145,000           |
+   
    *Table of the average salary for the top 10 paying skills for data analysts
 
    ### 5. Most Optimal Skill to Learn
@@ -230,7 +229,9 @@ LIMIT 25;
    | 4            | java       | java         | 106,906           |
    | 194          | ssis       | ssis         | 106,683           |
    | 233          | jira       | jira         | 104,918           |
+   
    *Table of the most optimal skills for data analysts sorted by salary
+   
    Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 - **High-Demand Programmin Languages:** Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
 - **Cloud Tools and Technologies:** Skills in specialized technologies such as Snowflake,Azure,AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis
