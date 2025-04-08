@@ -2,7 +2,7 @@
 
 # Introduction
 Dive into the data job market!Focusing on Data Analyst roles, this project contains top paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
-SQL queries? Check them out here [SQL_Project_Data_Job_Analysis_folder]{/SQL_Project_Data_Job_Analysis_folder/}
+SQL queries? Check them out here ![SQL_Project_Data_Job_Analysis_folder]{/SQL_Project_Data_Job_Analysis_folder/}
 #Background
 Driven by a desire to navigate the data analyst job market more efficiently, this project was born from the passion to pinpoint top-paid and indemand skills, streamlining others to find optional jobs.
 The data is packed with insights on job titles, salaries, locations and essential skills.
