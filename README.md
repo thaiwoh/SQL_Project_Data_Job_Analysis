@@ -2,7 +2,6 @@
 
 # Introduction
 Dive into the data job market!Focusing on Data Analyst roles, this project contains top paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
-SQL queries? Check them out here ![SQL_Project_Data_Job_Analysis_folder]{/SQL_Project_Data_Job_Analysis_folder/}
 #Background
 Driven by a desire to navigate the data analyst job market more efficiently, this project was born from the passion to pinpoint top-paid and indemand skills, streamlining others to find optional jobs.
 The data is packed with insights on job titles, salaries, locations and essential skills.
@@ -52,9 +51,7 @@ Here's the breakdown of the top 10 data analyst jobsin 2023:
 - **Wide Salary Range:** Top 10 paying data analyst roles span from $97,000 to $99,000, indicating significant salary potential in the field.
 - **Diverse Employers:** Companies like Calbright College,Ogletree Deakins,Get It Recruit - Information Technology are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Research Data Analyst to Senior Earth Observation Data Analyst, reflecting varied roles and specializations within data analytics.
- ![Dashboard Preview](https://raw.githubusercontent.com/thaiwoh/SQL_Project_Data_Job_Analysis/main/chatgpt top 10 jobs.png)
-
-  
+ 
 ### 2. Skills for top Paying Jobs
 To understand what skills are required for the top-paying jobs, i joined the job postings with the skills data, providinginsights into what employers value for high- compensation roles. 
 ```sql
